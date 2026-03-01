@@ -1,9 +1,9 @@
 import { ShieldCheck, Users, Clock } from "lucide-react";
 
 const stats = [
-  { icon: ShieldCheck, label: "Safe Deliveries", value: "15,000+" },
-  { icon: Users, label: "Happy Customers", value: "15,000+" },
-  { icon: Clock, label: "Years Experience", value: "15+" },
+  { icon: ShieldCheck, label: "Safe Deliveries", value: "50,000+" },
+  { icon: Users, label: "Happy Customers", value: "40,000+" },
+  { icon: Clock, label: "Years Experience", value: "40+" },
 ];
 
 const AboutSection = () => (
