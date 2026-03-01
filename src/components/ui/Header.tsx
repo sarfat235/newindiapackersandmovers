@@ -19,7 +19,7 @@ const Header = () => {
       <div className="container-narrow flex items-center justify-between h-16 px-4 md:px-8">
         <a href="#home" className="flex items-center gap-2">
           <span className="text-lg md:text-xl font-heading font-extrabold text-primary-foreground">
-            New India <span className="text-primary">Packers</span>
+            New India <span className="text-primary">Packers & Movers</span>
           </span>
         </a>
 

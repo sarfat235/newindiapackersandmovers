@@ -5,6 +5,8 @@ const Footer = () => (
     </p>
     <p className="text-secondary-foreground/40 text-xs mt-1">
       Pan-India Household & Office Relocation Services
+      <p className="text-secondary-foreground/40 text-xs mt-1"></p>
+      Office Address : Tinsukia, Tamulbari Road, Shukla Building, Tinsukia, 786125 (Assam)
     </p>
   </footer>
 );

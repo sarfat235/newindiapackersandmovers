@@ -33,7 +33,7 @@ const HeroSection = () => (
           </Button>
         </a>
         <a href="#quote">
-          <Button size="lg" variant="outline" className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 font-bold text-base gap-2 w-full sm:w-auto px-8">
+          <Button size="lg" variant="outline" className="border-primary-foreground/30 text-black hover:bg-primary-foreground/10 font-bold text-base gap-2 w-full sm:w-auto px-8">
             <FileText className="w-5 h-5" /> Get Free Quote
           </Button>
         </a>
